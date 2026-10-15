@@ -112,4 +112,4 @@ Os resultados são preliminares e podem variar conforme o computador e as condi�
 
 ## Vídeo de apresentação
 
-Link do vídeo pitch: será adicionado após a gravação no Dia 3.
+Link do vídeo pitch: https://youtu.be/coVJxf07EZc
